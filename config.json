@@ -11,11 +11,11 @@
     },
     {
       "quadrant": 1,
-      "ring": 1,
+      "ring": 0,
       "label": "AsincAPI",
       "link": "https://www.asyncapi.com/",
       "active": true,
-      "moved": 1
+      "moved": 3
     }
   ]
 }
