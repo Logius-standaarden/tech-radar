@@ -10,7 +10,7 @@ Elke inzicht die wij delen zijn gerepresenteerd door een zogenaamde blip. Een bl
 
 De vier verschillende ringvormen zijn: 
 
-Adopt. Trends die serieus door het API Standaarden team overwogen wordt om te gebruiken/adopteren.
-Trial. Trends waarvan initieel gedacht wordt dat zij klaar om te adopteren zijn, maar nog niet compleet bewezen zoals in de 'Adopt' ring. 
-Assess. Trends die actief geanalyseerd moeten worden, maar nog niet daadwerkelijk uitgeprobeerd worden, tenzij je denkt dat het goed past.
-Hold. Dit dient sporadisch gemonitord te worden.
+**Adopt**: Trends die serieus door het API Standaarden team overwogen wordt om te gebruiken/adopteren. <br>
+**Trial**: Trends waarvan initieel gedacht wordt dat zij klaar om te adopteren zijn, maar nog niet compleet bewezen zoals in de 'Adopt' ring. <br>
+**Assess**: Trends die actief geanalyseerd moeten worden, maar nog niet daadwerkelijk uitgeprobeerd worden, tenzij je denkt dat het goed past.<br>
+**Hold**: Dit dient sporadisch gemonitord te worden.
