@@ -6,7 +6,7 @@ Hierin worden nieuwe technologische trends op het gebied van bijvoorbeeld API's 
 
 
 ## Hoe werkt het?
-Elke inzicht die wij delen zijn gerepresenteerd door een zogenaamde blip. Een blip is een rondje met daarin de naam van de trend en de nummer. Elke blip bevindt zich ook in een bepaalde ring wat ook verschillende onderzoeksvormen kan aannemen. 
+Elk inzicht dat wij delen wordt gerepresenteerd door een zogenaamde blip. Een blip is een rondje met daarin de naam van de trend en de nummer. Elke blip bevindt zich ook in een bepaalde ring wat ook verschillende onderzoeksvormen kan aannemen. 
 
 De vier verschillende onderzoeksvormen zijn: 
 
