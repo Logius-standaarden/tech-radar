@@ -1,6 +1,6 @@
 # Tech Radar
 
-Bij Logius beheren wij een Tech Radar om onze API Standaarden team te helpen bijeenkomen op technologische keuzes. Het is grotendeels gebaseerd op [pioneering work by ThoughtWorks](https://www.thoughtworks.com/radar).
+Bij Logius beheren wij een Tech Radar om onze API Standaarden team te helpen bijeenkomen op technologische keuzes.
 
 Hierin worden nieuwe technologische trends op het gebied van bijvoorbeeld API's of andere trends die passen bij onze standaarden geïdentificeerd en gedocumenteerd.
 
