@@ -10,7 +10,7 @@ Elk inzicht dat wij delen wordt gerepresenteerd door een zogenaamde blip. Een bl
 
 De vier verschillende onderzoeksvormen zijn: 
 
-**Adopt**: Trends die serieus door het API Standaarden team overwogen wordt om te gebruiken/adopteren. <br>
+**Adopt**: Trends die serieus door het API Standaarden team overwogen worden om te gebruiken/adopteren. <br>
 **Trial**: Trends waarvan initieel gedacht wordt dat zij klaar om te adopteren zijn, maar nog niet compleet bewezen zoals in de 'Adopt' ring. <br>
 **Assess**: Trends die actief onderzocht moeten worden, maar nog niet daadwerkelijk uitgeprobeerd worden, tenzij je denkt dat het goed past.<br>
 **Hold**: Dit dient sporadisch gemonitord te worden.
