@@ -51,12 +51,7 @@ fetch('./config.json').then(function(response) {
 
 <p id="datetime"></p>
 <script>
-// Get current date and time
-var now = new Date();
-var datetime = now.toLocaleString();
-
-// Insert date and time into HTML
-document.getElementById("datetime").innerHTML = datetime;
+document.getElementById("datetime").innerHTML = new Date(document.lastModified);
 </script>
 
 <h3>What is the Tech Radar?</h3>
