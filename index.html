@@ -49,6 +49,11 @@ fetch('./config.json').then(function(response) {
 <tr>
 <td>
 
+<p id="datetime"></p>
+<script>
+document.getElementById("datetime").innerHTML = new Date(document.lastModified);
+</script>
+
 <h3>What is the Tech Radar?</h3>
 
 <p>
