@@ -19,12 +19,18 @@
 <svg id="radar"></svg>
 
 <script>
+var dateModified = new Date(document.lastModified);
+dateModified = dateModified.toLocaleDateString('nl-NL', {
+  year: 'numeric',
+  month: 'long'
+});
 fetch('./config.json').then(function(response) {
   return response.json();
 }).then(function(data) {
   radar_visualization({
     repo_url: "https://github.com/Logius-standaarden/tech-radar",
     title: "Logius Standaarden Tech Radar",
+    date: dateModified,
     quadrants: [
       { name: "APIs" },
       { name: "Toegang en Authenticatie" },
@@ -47,11 +53,6 @@ fetch('./config.json').then(function(response) {
 <table>
 <tr>
 <td>
-
-<p id="datetime"></p>
-<script>
-document.getElementById("datetime").innerHTML = new Date(document.lastModified);
-</script>
 
 <h3>What is the Tech Radar?</h3>
 
